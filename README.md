@@ -1,6 +1,6 @@
 # Hey, I'm Yak 👋
 
-Self-taught Linux and infrastructure engineer transitioning into **DevOps / SRE / Platform Engineering**. I build real things, operate them, troubleshoot them, and document everything — in my homelab and in production.
+Infrastructure engineer transitioning into **DevOps / SRE / Platform Engineering**. I build real things, operate them, troubleshoot them, and document everything — in my homelab and in production.
 
 ---
 
